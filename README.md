@@ -17,9 +17,10 @@
 Full-time positions starting January 2024. Feel free to shoot opportunities my way! I enjoy working in a collaborative, creative, and challenging environment.
 
 <h3 align="left">📫 Eager to chat or collaborate?</h3>
-<p align="left">
-- Connect on: <a href="https://linkedin.com/in/jonathangabriel164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathangabriel164" height="20" width="25" /></a>
+- <p align="left">
+Connect on: <a href="https://linkedin.com/in/jonathangabriel164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathangabriel164" height="20" width="25" /></a>
 </p> 
+
 - Shoot me an email at gabriel.jo@northeastern.edu
 
 - Visit my [Website](https://gabrieljonathan164.github.io/).
